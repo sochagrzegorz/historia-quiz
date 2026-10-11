@@ -1,6 +1,6 @@
 # Egipt Izrael pismo
 
-Opublikowany quiz: https://sochagrzegorz.github.io/historia-quiz/ — [raport testów i ograniczeń](TEST_REPORT.md).
+Opublikowany quiz: https://sochagrzegorz.github.io/historia-quiz/ — przed startem jest dostępna [powtórka audio](powtorka-przed-testem.mp3). [Raport testów i ograniczeń](TEST_REPORT.md).
 
 Historia — klasa 5. Quiz oparty na rzeczywistym kodzie biologii z `sochagrzegorz/quiz/biologia/index.html` (SHA źródła a28c1eb5866b4d1f3adfd8e87adeb4632a09b22f).
 
