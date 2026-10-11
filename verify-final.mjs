@@ -6,7 +6,8 @@ const response=await fetch(base+'egipt_izrael_pismo_pytania.json?verification='+
 assert.equal(response.status,200);
 assert.deepEqual(await response.json(),local);
 const page=await fetch(base);assert.equal(page.status,200);
-const html=await page.text();assert.ok(html.includes('Egipt Izrael'));assert.ok(!html.includes('<audio'));
+const html=await page.text();assert.ok(html.includes('Egipt Izrael'));assert.ok(html.includes('Powtórka przed testem'));
+const audio=await fetch(base+'powtorka-przed-testem.mp3',{method:'HEAD'});assert.equal(audio.status,200);
 const api='https://historia-quiz-ai.sochagrzegorz.workers.dev';
 const health=await fetch(api+'/health');assert.equal(health.status,200);
-console.log(JSON.stringify({https:200,bankMatchesLocal:true,questions:local.questions.length,hints:local.questions.filter(q=>q.hint).length,health:await health.json()}));
+console.log(JSON.stringify({https:200,audio:audio.status,audioType:audio.headers.get('content-type'),bankMatchesLocal:true,questions:local.questions.length,hints:local.questions.filter(q=>q.hint).length,health:await health.json()}));
