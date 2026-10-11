@@ -106,5 +106,25 @@
     "after": {
       "hint": "Policz litery, uwzględniając także polskie znaki, takie jak ą, ć i ł."
     }
+  },
+  {
+    "id": "H-042",
+    "reason": "Podpowiedź Pięcioksiąg była równoważna gotowej odpowiedzi; zastąpiono ją wskazówką dotyczącą treści.",
+    "before": {
+      "hint": "Przypomnij sobie inne określenie: Pięcioksiąg."
+    },
+    "after": {
+      "hint": "Przypomnij sobie, jak uporządkowana jest Biblia hebrajska i gdzie opisuje początki świata oraz najstarsze dzieje Izraelitów."
+    }
+  },
+  {
+    "id": "H-088",
+    "reason": "Podpowiedź Pięcioksiąg była równoważna gotowej odpowiedzi; zastąpiono ją wskazówką dotyczącą treści.",
+    "before": {
+      "hint": "Przypomnij sobie określenie „Pięcioksiąg”."
+    },
+    "after": {
+      "hint": "Przypomnij sobie, jak uporządkowana jest Biblia hebrajska i gdzie opisuje początki świata oraz najstarsze dzieje Izraelitów."
+    }
   }
 ]

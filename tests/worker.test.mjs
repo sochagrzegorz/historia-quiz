@@ -16,7 +16,7 @@ test('full real worker flow with mocked AI: forged scores refused, history isola
 test('AI outage and malformed grading do not award points',async()=>{
  const q=questions.find(q=>q.type==='open');for(const AI of [{run:async()=>{throw Error('offline')}},{run:async()=>({response:{score:5,feedback:'x'}})},{run:async()=>({response:{score:2,feedback:''}})}])await assert.rejects(()=>gradeOpen(q,'odpowiedź',{AI}));
 });
-test('AI gets trusted question and semantic instructions, not client rubric',async()=>{let input;await gradeOpen(questions.find(q=>q.id==='H-073'),'rzemieslnicy, kaplani i rolnicy',{AI:{run:async(m,args)=>{input=args;return {response:{score:2,feedback:'Trzy poprawne grupy.'}}}}});assert.match(input.messages[0].content,/synonimy/);assert.match(input.messages[0].content,/nie zamkniętym kluczem/);assert.match(input.messages[1].content,/rzemieslnicy/);});
+test('AI gets trusted question and semantic instructions, not client rubric',async()=>{let input;await gradeOpen(questions.find(q=>q.id==='H-073'),'rzemieslnicy, kaplani i rolnicy',{AI:{run:async(m,args)=>{input=args;return {response:{score:2,feedback:'Trzy poprawne grupy.'}}}}});assert.match(input.messages[0].content,/synonimy/);assert.match(input.messages[0].content,/nie zamkniętym kluczem/);assert.match(input.messages.find(m=>m.role==='user').content,/rzemieslnicy/);});
 test('CORS, invalid JSON and nickname input validation',async()=>{
  const r=await worker.fetch(new Request('https://api.test/session',{method:'OPTIONS',headers:{Origin:'https://sochagrzegorz.github.io'}}),env);assert.equal(r.status,204);
  assert.equal((await worker.fetch(new Request('https://api.test/health',{headers:{Origin:'https://evil.test'}}),env)).status,403);
