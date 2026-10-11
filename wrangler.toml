@@ -1,0 +1,8 @@
+name = "historia-quiz-ai"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+[ai]
+binding = "AI"
+[[kv_namespaces]]
+binding = "LEADERBOARD"
+id = "48d5e7db8fe345cab9ba1948ebd25d27"

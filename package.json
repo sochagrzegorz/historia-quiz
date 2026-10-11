@@ -1,0 +1,1 @@
+{"name":"egipt-izrael-pismo","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node --test tests/*.test.mjs","test:browser":"playwright test"},"devDependencies":{"@playwright/test":"^1.64.0","esbuild":"^0.25.0"}}

@@ -1,0 +1,2838 @@
+{
+  "title": "Egipt Izrael pismo",
+  "grade": 5,
+  "source": "Zdjęcia podręcznika historii, strony 20–29 i 35–39",
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "H-001",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "W którym regionie Afryki powstało państwo egipskie?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na północy Afryki"
+        },
+        {
+          "id": "B",
+          "text": "Na południu Afryki"
+        },
+        {
+          "id": "C",
+          "text": "W środkowej Afryce"
+        },
+        {
+          "id": "D",
+          "text": "Na zachodnim krańcu Afryki"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Na północy Afryki",
+      "acceptedAnswers": [
+        "Na północy Afryki"
+      ],
+      "page": 20,
+      "hint": "Przyjrzyj się mapie i miejscu, gdzie Nil wpada do morza.",
+      "explanation": "Egipt powstał w północnej Afryce.",
+      "difficulty": "easy",
+      "concept": "egipt-1"
+    },
+    {
+      "id": "H-002",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Około którego roku powstało państwo egipskie?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3000 r. p.n.e."
+        },
+        {
+          "id": "B",
+          "text": "1000 r. p.n.e."
+        },
+        {
+          "id": "C",
+          "text": "500 r. n.e."
+        },
+        {
+          "id": "D",
+          "text": "4000 r. n.e."
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "3000 r. p.n.e.",
+      "acceptedAnswers": [
+        "3000 r. p.n.e."
+      ],
+      "page": 20,
+      "hint": "Przypomnij sobie datę podaną przy osi czasu na początku tematu.",
+      "explanation": "Podręcznik podaje około 3000 r. p.n.e.",
+      "difficulty": "medium",
+      "concept": "egipt-2"
+    },
+    {
+      "id": "H-003",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Dlaczego Nil był ważny dla egipskiego rolnictwa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jego wylewy użyźniały pola"
+        },
+        {
+          "id": "B",
+          "text": "Zapewniał śnieg na polach"
+        },
+        {
+          "id": "C",
+          "text": "Zatrzymywał wszystkie burze"
+        },
+        {
+          "id": "D",
+          "text": "Zamieniał pustynię w las"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Jego wylewy użyźniały pola",
+      "acceptedAnswers": [
+        "Jego wylewy użyźniały pola"
+      ],
+      "page": 20,
+      "hint": "Pomyśl, co zostaje na polach po opadnięciu wody.",
+      "explanation": "Wylewy Nilu pozostawiały żyzny muł.",
+      "difficulty": "hard",
+      "concept": "egipt-3"
+    },
+    {
+      "id": "H-004",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Co Egipcjanie budowali, aby nawadniać pola?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kanały nawadniające"
+        },
+        {
+          "id": "B",
+          "text": "Kamienne mury obronne"
+        },
+        {
+          "id": "C",
+          "text": "Wysokie wieże"
+        },
+        {
+          "id": "D",
+          "text": "Podziemne grobowce"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Kanały nawadniające",
+      "acceptedAnswers": [
+        "Kanały nawadniające"
+      ],
+      "page": 20,
+      "hint": "Chodzi o budowle doprowadzające wodę na uprawy.",
+      "explanation": "Kanały doprowadzały wodę do pól.",
+      "difficulty": "easy",
+      "concept": "egipt-4"
+    },
+    {
+      "id": "H-005",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jakie dwa morza leżały przy starożytnym Egipcie?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Śródziemne i Czerwone"
+        },
+        {
+          "id": "B",
+          "text": "Bałtyckie i Czarne"
+        },
+        {
+          "id": "C",
+          "text": "Północne i Bałtyckie"
+        },
+        {
+          "id": "D",
+          "text": "Czarne i Kaspijskie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Śródziemne i Czerwone",
+      "acceptedAnswers": [
+        "Śródziemne i Czerwone"
+      ],
+      "page": 20,
+      "hint": "Odszukaj północne i wschodnie wybrzeże Egiptu na mapie.",
+      "explanation": "Egipt leżał nad Morzem Śródziemnym i Czerwonym.",
+      "difficulty": "medium",
+      "concept": "egipt-5"
+    },
+    {
+      "id": "H-006",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak nazywano władcę starożytnego Egiptu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Faraon"
+        },
+        {
+          "id": "B",
+          "text": "Konsul"
+        },
+        {
+          "id": "C",
+          "text": "Cesarz Rzymu"
+        },
+        {
+          "id": "D",
+          "text": "Strateg"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Faraon",
+      "acceptedAnswers": [
+        "Faraon"
+      ],
+      "page": 21,
+      "hint": "To tytuł osoby przedstawionej na szczycie piramidy społecznej.",
+      "explanation": "Władcą Egiptu był faraon.",
+      "difficulty": "hard",
+      "concept": "egipt-6"
+    },
+    {
+      "id": "H-007",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jaki zakres władzy miał faraon według podręcznika?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nieograniczoną władzę"
+        },
+        {
+          "id": "B",
+          "text": "Wyłącznie władzę wojskową"
+        },
+        {
+          "id": "C",
+          "text": "Wyłącznie władzę religijną"
+        },
+        {
+          "id": "D",
+          "text": "Władzę tylko nad jednym miastem"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Nieograniczoną władzę",
+      "acceptedAnswers": [
+        "Nieograniczoną władzę"
+      ],
+      "page": 21,
+      "hint": "Sprawdź, kto stanowił prawa i kierował wojskiem.",
+      "explanation": "Faraon rządził państwem, ustanawiał prawa i dowodził wojskiem.",
+      "difficulty": "easy",
+      "concept": "egipt-7"
+    },
+    {
+      "id": "H-008",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Kto znajdował się na szczycie egipskiej piramidy społecznej?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Faraon"
+        },
+        {
+          "id": "B",
+          "text": "Chłopi"
+        },
+        {
+          "id": "C",
+          "text": "Rzemieślnicy"
+        },
+        {
+          "id": "D",
+          "text": "Niewolnicy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Faraon",
+      "acceptedAnswers": [
+        "Faraon"
+      ],
+      "page": 21,
+      "hint": "Najwyższe miejsce zajmowała jedna osoba.",
+      "explanation": "Najwyżej w hierarchii stał faraon.",
+      "difficulty": "medium",
+      "concept": "egipt-8"
+    },
+    {
+      "id": "H-009",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Która grupa egipskiego społeczeństwa prowadziła obrzędy religijne?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kapłani"
+        },
+        {
+          "id": "B",
+          "text": "Żołnierze"
+        },
+        {
+          "id": "C",
+          "text": "Chłopi"
+        },
+        {
+          "id": "D",
+          "text": "Niewolnicy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Kapłani",
+      "acceptedAnswers": [
+        "Kapłani"
+      ],
+      "page": 21,
+      "hint": "Pomyśl o osobach służących bogom w świątyniach.",
+      "explanation": "Obrzędy religijne sprawowali kapłani.",
+      "difficulty": "hard",
+      "concept": "egipt-9"
+    },
+    {
+      "id": "H-010",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Która grupa Egipcjan zajmowała się głównie uprawą ziemi?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chłopi"
+        },
+        {
+          "id": "B",
+          "text": "Urzędnicy"
+        },
+        {
+          "id": "C",
+          "text": "Kapłani"
+        },
+        {
+          "id": "D",
+          "text": "Faraonowie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Chłopi",
+      "acceptedAnswers": [
+        "Chłopi"
+      ],
+      "page": 21,
+      "hint": "Była to najliczniejsza grupa społeczeństwa.",
+      "explanation": "Chłopi uprawiali ziemię i pracowali przy budowlach.",
+      "difficulty": "easy",
+      "concept": "egipt-10"
+    },
+    {
+      "id": "H-011",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jakie zadanie mieli egipscy urzędnicy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pomagali zarządzać państwem"
+        },
+        {
+          "id": "B",
+          "text": "Wyłącznie budowali łodzie"
+        },
+        {
+          "id": "C",
+          "text": "Wyłącznie walczyli na wojnie"
+        },
+        {
+          "id": "D",
+          "text": "Wyłącznie składali ofiary"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Pomagali zarządzać państwem",
+      "acceptedAnswers": [
+        "Pomagali zarządzać państwem"
+      ],
+      "page": 21,
+      "hint": "Pomyśl, kto pomagał faraonowi w kierowaniu krajem.",
+      "explanation": "Urzędnicy wykonywali zadania administracyjne.",
+      "difficulty": "medium",
+      "concept": "egipt-11"
+    },
+    {
+      "id": "H-012",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Czym zajmowali się egipscy rzemieślnicy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wytwarzali narzędzia i przedmioty codzienne"
+        },
+        {
+          "id": "B",
+          "text": "Wyłącznie rządzili krajem"
+        },
+        {
+          "id": "C",
+          "text": "Wyłącznie dowodzili armią"
+        },
+        {
+          "id": "D",
+          "text": "Wyłącznie prowadzili obrzędy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Wytwarzali narzędzia i przedmioty codzienne",
+      "acceptedAnswers": [
+        "Wytwarzali narzędzia i przedmioty codzienne"
+      ],
+      "page": 21,
+      "hint": "Przypomnij sobie, kto produkował ceramikę i ubrania.",
+      "explanation": "Rzemieślnicy wykonywali narzędzia, ceramikę i ubrania.",
+      "difficulty": "hard",
+      "concept": "egipt-12"
+    },
+    {
+      "id": "H-013",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak nazywa się wiara w wielu bogów?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Politeizm"
+        },
+        {
+          "id": "B",
+          "text": "Monoteizm"
+        },
+        {
+          "id": "C",
+          "text": "Ateizm"
+        },
+        {
+          "id": "D",
+          "text": "Demokracja"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Politeizm",
+      "acceptedAnswers": [
+        "Politeizm"
+      ],
+      "page": 22,
+      "hint": "Przedrostek „poli” oznacza wiele.",
+      "explanation": "Politeizm to wiara w wielu bogów.",
+      "difficulty": "easy",
+      "concept": "egipt-13"
+    },
+    {
+      "id": "H-014",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Który egipski bóg był bogiem słońca?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ra"
+        },
+        {
+          "id": "B",
+          "text": "Zeus"
+        },
+        {
+          "id": "C",
+          "text": "Jahwe"
+        },
+        {
+          "id": "D",
+          "text": "Posejdon"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Ra",
+      "acceptedAnswers": [
+        "Ra"
+      ],
+      "page": 22,
+      "hint": "Jego wizerunek przedstawiono obok tekstu o wierzeniach.",
+      "explanation": "Ra był egipskim bogiem słońca.",
+      "difficulty": "medium",
+      "concept": "egipt-14"
+    },
+    {
+      "id": "H-015",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Który bóg według Egipcjan osądzał zmarłych?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ozyrys"
+        },
+        {
+          "id": "B",
+          "text": "Ra"
+        },
+        {
+          "id": "C",
+          "text": "Ares"
+        },
+        {
+          "id": "D",
+          "text": "Apollo"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Ozyrys",
+      "acceptedAnswers": [
+        "Ozyrys"
+      ],
+      "page": 22,
+      "hint": "Odszukaj akapit „Wiara w życie po śmierci”.",
+      "explanation": "Według wierzeń Egipcjan zmarłych osądzał Ozyrys.",
+      "difficulty": "hard",
+      "concept": "egipt-15"
+    },
+    {
+      "id": "H-016",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Dlaczego Egipcjanie mumifikowali ciała?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wierzyli w życie po śmierci"
+        },
+        {
+          "id": "B",
+          "text": "Chcieli ułatwić transport żywności"
+        },
+        {
+          "id": "C",
+          "text": "Przygotowywali żołnierzy do walki"
+        },
+        {
+          "id": "D",
+          "text": "Uczyli się pisma"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Wierzyli w życie po śmierci",
+      "acceptedAnswers": [
+        "Wierzyli w życie po śmierci"
+      ],
+      "page": 22,
+      "hint": "Pomyśl, dlaczego zależało im na zachowaniu ciała.",
+      "explanation": "Wierzyli, że dusza potrzebuje zachowanego ciała.",
+      "difficulty": "easy",
+      "concept": "egipt-16"
+    },
+    {
+      "id": "H-017",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak nazywa się zabalsamowane ciało zmarłego?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumia"
+        },
+        {
+          "id": "B",
+          "text": "Piramida"
+        },
+        {
+          "id": "C",
+          "text": "Papirus"
+        },
+        {
+          "id": "D",
+          "text": "Menora"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Mumia",
+      "acceptedAnswers": [
+        "Mumia"
+      ],
+      "page": 22,
+      "hint": "To efekt procesu przedstawionego na ilustracji.",
+      "explanation": "Zabalsamowane ciało to mumia.",
+      "difficulty": "medium",
+      "concept": "egipt-17"
+    },
+    {
+      "id": "H-018",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak nazywała się ozdobna trumna, do której wkładano mumię?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarkofag"
+        },
+        {
+          "id": "B",
+          "text": "Obelisk"
+        },
+        {
+          "id": "C",
+          "text": "Amfiteatr"
+        },
+        {
+          "id": "D",
+          "text": "Arka"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Sarkofag",
+      "acceptedAnswers": [
+        "Sarkofag"
+      ],
+      "page": 22,
+      "hint": "Spójrz na podpis pod drugim etapem mumifikacji.",
+      "explanation": "Mumię umieszczano w sarkofagu.",
+      "difficulty": "hard",
+      "concept": "egipt-18"
+    },
+    {
+      "id": "H-019",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Do czego służyły egipskie piramidy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jako grobowce faraonów"
+        },
+        {
+          "id": "B",
+          "text": "Jako porty morskie"
+        },
+        {
+          "id": "C",
+          "text": "Jako szkoły"
+        },
+        {
+          "id": "D",
+          "text": "Jako targowiska"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Jako grobowce faraonów",
+      "acceptedAnswers": [
+        "Jako grobowce faraonów"
+      ],
+      "page": 23,
+      "hint": "Zastanów się, co znajdowało się w komorze grobowej.",
+      "explanation": "Piramidy wznoszono jako grobowce niektórych faraonów.",
+      "difficulty": "easy",
+      "concept": "egipt-19"
+    },
+    {
+      "id": "H-020",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "W jakiej miejscowości znajdują się słynne piramidy Cheopsa i Chefrena?",
+      "options": [
+        {
+          "id": "A",
+          "text": "W Gizie"
+        },
+        {
+          "id": "B",
+          "text": "W Rzymie"
+        },
+        {
+          "id": "C",
+          "text": "W Atenach"
+        },
+        {
+          "id": "D",
+          "text": "W Babilonie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "W Gizie",
+      "acceptedAnswers": [
+        "W Gizie"
+      ],
+      "page": 23,
+      "hint": "Nazwę miejsca podano na początku infografiki.",
+      "explanation": "Słynne piramidy znajdują się w Gizie.",
+      "difficulty": "medium",
+      "concept": "egipt-20"
+    },
+    {
+      "id": "H-021",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak transportowano kamienne bloki do piramidy Cheopsa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statkami po Nilu"
+        },
+        {
+          "id": "B",
+          "text": "Samolotami"
+        },
+        {
+          "id": "C",
+          "text": "Koleją"
+        },
+        {
+          "id": "D",
+          "text": "Na wielbłądach przez Alpy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Statkami po Nilu",
+      "acceptedAnswers": [
+        "Statkami po Nilu"
+      ],
+      "page": 23,
+      "hint": "Spójrz na ilustrację łodzi na infografice.",
+      "explanation": "Kamienne bloki przewożono Nilem na statkach.",
+      "difficulty": "hard",
+      "concept": "egipt-21"
+    },
+    {
+      "id": "H-022",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Co przedstawia Wielki Sfinks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lwa z ludzką głową"
+        },
+        {
+          "id": "B",
+          "text": "Orła z ludzkimi rękami"
+        },
+        {
+          "id": "C",
+          "text": "Konia ze skrzydłami"
+        },
+        {
+          "id": "D",
+          "text": "Ryby z głową lwa"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Lwa z ludzką głową",
+      "acceptedAnswers": [
+        "Lwa z ludzką głową"
+      ],
+      "page": 23,
+      "hint": "Przyjrzyj się zdjęciu rzeźby obok piramid.",
+      "explanation": "Sfinks ma ciało lwa i ludzką głowę.",
+      "difficulty": "easy",
+      "concept": "egipt-22"
+    },
+    {
+      "id": "H-023",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Jak nazywało się egipskie pismo obrazkowe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglify"
+        },
+        {
+          "id": "B",
+          "text": "Cyrylica"
+        },
+        {
+          "id": "C",
+          "text": "Alfabet łaciński"
+        },
+        {
+          "id": "D",
+          "text": "Runy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Hieroglify",
+      "acceptedAnswers": [
+        "Hieroglify"
+      ],
+      "page": 24,
+      "hint": "Jego znaki widać na ilustracji po prawej stronie.",
+      "explanation": "Egipcjanie używali hieroglifów.",
+      "difficulty": "medium",
+      "concept": "egipt-23"
+    },
+    {
+      "id": "H-024",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Kto odkrył grobowiec Tutanchamona w 1922 roku?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Howard Carter"
+        },
+        {
+          "id": "B",
+          "text": "Kazimierz Michałowski"
+        },
+        {
+          "id": "C",
+          "text": "Mojżesz"
+        },
+        {
+          "id": "D",
+          "text": "Herodot"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Howard Carter",
+      "acceptedAnswers": [
+        "Howard Carter"
+      ],
+      "page": 24,
+      "hint": "Nazwisko archeologa podano w ramce „Skarb Tutanchamona”.",
+      "explanation": "Grobowiec odkrył Howard Carter.",
+      "difficulty": "hard",
+      "concept": "egipt-24"
+    },
+    {
+      "id": "H-025",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Ile dni liczył rok w kalendarzu egipskim opisanym w podręczniku?",
+      "options": [
+        {
+          "id": "A",
+          "text": "365"
+        },
+        {
+          "id": "B",
+          "text": "300"
+        },
+        {
+          "id": "C",
+          "text": "400"
+        },
+        {
+          "id": "D",
+          "text": "200"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "365",
+      "acceptedAnswers": [
+        "365"
+      ],
+      "page": 24,
+      "hint": "Przypomnij sobie liczbę dni zbliżoną do dzisiejszego roku.",
+      "explanation": "Egipski kalendarz liczył 365 dni.",
+      "difficulty": "easy",
+      "concept": "egipt-25"
+    },
+    {
+      "id": "H-026",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Która dziedzina wiedzy rozwijała się dzięki mumifikacji?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medycyna"
+        },
+        {
+          "id": "B",
+          "text": "Informatyka"
+        },
+        {
+          "id": "C",
+          "text": "Lotnictwo"
+        },
+        {
+          "id": "D",
+          "text": "Drukarstwo"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Medycyna",
+      "acceptedAnswers": [
+        "Medycyna"
+      ],
+      "page": 24,
+      "hint": "Przygotowanie ciał pomagało poznawać ich budowę.",
+      "explanation": "Mumifikacja sprzyjała poznawaniu anatomii i medycyny.",
+      "difficulty": "medium",
+      "concept": "egipt-26"
+    },
+    {
+      "id": "H-027",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Dlaczego przeniesiono świątynię Abu Simbel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Groziło jej zalanie przez sztuczne jezioro"
+        },
+        {
+          "id": "B",
+          "text": "Została zniszczona przez pożar"
+        },
+        {
+          "id": "C",
+          "text": "Przenoszono stolicę Egiptu"
+        },
+        {
+          "id": "D",
+          "text": "Zbudowano pod nią kopalnię"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Groziło jej zalanie przez sztuczne jezioro",
+      "acceptedAnswers": [
+        "Groziło jej zalanie przez sztuczne jezioro"
+      ],
+      "page": 25,
+      "hint": "Przeczytaj o budowie tamy na Nilu.",
+      "explanation": "Przeniesiono ją, aby ocalić przed wodami jeziora przy tamie Asuan.",
+      "difficulty": "hard",
+      "concept": "egipt-27"
+    },
+    {
+      "id": "H-028",
+      "topic": "egipt",
+      "type": "abcd",
+      "question": "Komu poświęcono świątynię Abu Simbel według podpisu zdjęcia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bogom słońca"
+        },
+        {
+          "id": "B",
+          "text": "Bogom morza"
+        },
+        {
+          "id": "C",
+          "text": "Władcom Rzymu"
+        },
+        {
+          "id": "D",
+          "text": "Fenicjanom"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Bogom słońca",
+      "acceptedAnswers": [
+        "Bogom słońca"
+      ],
+      "page": 25,
+      "hint": "Zwróć uwagę na podpis pod fotografią świątyni.",
+      "explanation": "Świątynia Abu Simbel była poświęcona bogom słońca.",
+      "difficulty": "easy",
+      "concept": "egipt-28"
+    },
+    {
+      "id": "H-029",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Skąd według podręcznika Izraelici przybyli do Palestyny pod wodzą Abrahama?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Z Mezopotamii"
+        },
+        {
+          "id": "B",
+          "text": "Z Grecji"
+        },
+        {
+          "id": "C",
+          "text": "Z Italii"
+        },
+        {
+          "id": "D",
+          "text": "Z Chin"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Z Mezopotamii",
+      "acceptedAnswers": [
+        "Z Mezopotamii"
+      ],
+      "page": 26,
+      "hint": "Odszukaj pierwszy akapit „Burzliwe dzieje Izraelitów”.",
+      "explanation": "Według opowieści Izraelici przybyli z Mezopotamii.",
+      "difficulty": "medium",
+      "concept": "izrael-29"
+    },
+    {
+      "id": "H-030",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywano Palestynę w starożytności?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ziemią Kanaan"
+        },
+        {
+          "id": "B",
+          "text": "Galią"
+        },
+        {
+          "id": "C",
+          "text": "Mezopotamią"
+        },
+        {
+          "id": "D",
+          "text": "Nubią"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Ziemią Kanaan",
+      "acceptedAnswers": [
+        "Ziemią Kanaan"
+      ],
+      "page": 26,
+      "hint": "Nazwa występuje obok słowa „Palestyna”.",
+      "explanation": "Palestynę nazywano Ziemią Kanaan.",
+      "difficulty": "hard",
+      "concept": "izrael-30"
+    },
+    {
+      "id": "H-031",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Kto według Biblii wyprowadził Izraelitów z Egiptu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mojżesz"
+        },
+        {
+          "id": "B",
+          "text": "Salomon"
+        },
+        {
+          "id": "C",
+          "text": "Dawid"
+        },
+        {
+          "id": "D",
+          "text": "Tutanchamon"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Mojżesz",
+      "acceptedAnswers": [
+        "Mojżesz"
+      ],
+      "page": 26,
+      "hint": "To postać związana również z Dekalogiem.",
+      "explanation": "Wyjściem z Egiptu kierował Mojżesz.",
+      "difficulty": "easy",
+      "concept": "izrael-31"
+    },
+    {
+      "id": "H-032",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "W którym wieku p.n.e. według podręcznika Izraelici wyszli z Egiptu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "XIII wieku p.n.e."
+        },
+        {
+          "id": "B",
+          "text": "I wieku p.n.e."
+        },
+        {
+          "id": "C",
+          "text": "V wieku n.e."
+        },
+        {
+          "id": "D",
+          "text": "XX wieku p.n.e."
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "XIII wieku p.n.e.",
+      "acceptedAnswers": [
+        "XIII wieku p.n.e."
+      ],
+      "page": 26,
+      "hint": "Spójrz na oś czasu u góry strony.",
+      "explanation": "Podręcznik podaje XIII wiek p.n.e.",
+      "difficulty": "medium",
+      "concept": "izrael-32"
+    },
+    {
+      "id": "H-033",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Który król zjednoczył plemiona izraelskie i zdobył Jerozolimę?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dawid"
+        },
+        {
+          "id": "B",
+          "text": "Salomon"
+        },
+        {
+          "id": "C",
+          "text": "Mojżesz"
+        },
+        {
+          "id": "D",
+          "text": "Abraham"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Dawid",
+      "acceptedAnswers": [
+        "Dawid"
+      ],
+      "page": 26,
+      "hint": "To ojciec następnego władcy słynącego z mądrości.",
+      "explanation": "Był nim król Dawid.",
+      "difficulty": "hard",
+      "concept": "izrael-33"
+    },
+    {
+      "id": "H-034",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Który król Izraela słynął z mądrości?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salomon"
+        },
+        {
+          "id": "B",
+          "text": "Dawid"
+        },
+        {
+          "id": "C",
+          "text": "Cheops"
+        },
+        {
+          "id": "D",
+          "text": "Ramzes"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Salomon",
+      "acceptedAnswers": [
+        "Salomon"
+      ],
+      "page": 26,
+      "hint": "Chodzi o syna króla Dawida.",
+      "explanation": "Z mądrości słynął Salomon.",
+      "difficulty": "easy",
+      "concept": "izrael-34"
+    },
+    {
+      "id": "H-035",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Co stało się z państwem Izraelitów po śmierci Salomona?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Podzieliło się i słabło"
+        },
+        {
+          "id": "B",
+          "text": "Zajęło cały Egipt"
+        },
+        {
+          "id": "C",
+          "text": "Zniknęła Jerozolima"
+        },
+        {
+          "id": "D",
+          "text": "Przeniosło się do Grecji"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Podzieliło się i słabło",
+      "acceptedAnswers": [
+        "Podzieliło się i słabło"
+      ],
+      "page": 26,
+      "hint": "Przeczytaj zdanie zaczynające się od „Po śmierci Salomona”.",
+      "explanation": "Po śmierci Salomona państwo uległo podziałowi.",
+      "difficulty": "medium",
+      "concept": "izrael-35"
+    },
+    {
+      "id": "H-036",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Kto zdobył Jerozolimę na początku VI wieku p.n.e.?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Babilończycy"
+        },
+        {
+          "id": "B",
+          "text": "Fenicjanie"
+        },
+        {
+          "id": "C",
+          "text": "Grecy"
+        },
+        {
+          "id": "D",
+          "text": "Sumerowie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Babilończycy",
+      "acceptedAnswers": [
+        "Babilończycy"
+      ],
+      "page": 26,
+      "hint": "Od nazwy najeźdźców pochodzi nazwa niewoli.",
+      "explanation": "Jerozolimę zdobyli Babilończycy.",
+      "difficulty": "hard",
+      "concept": "izrael-36"
+    },
+    {
+      "id": "H-037",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywa się okres uprowadzenia Izraelitów do Babilonii?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Niewola babilońska"
+        },
+        {
+          "id": "B",
+          "text": "Epoka lodowcowa"
+        },
+        {
+          "id": "C",
+          "text": "Wielka kolonizacja"
+        },
+        {
+          "id": "D",
+          "text": "Renesans"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Niewola babilońska",
+      "acceptedAnswers": [
+        "Niewola babilońska"
+      ],
+      "page": 26,
+      "hint": "Nazwa zawiera nazwę państwa zdobywców.",
+      "explanation": "Była to niewola babilońska.",
+      "difficulty": "easy",
+      "concept": "izrael-37"
+    },
+    {
+      "id": "H-038",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywa się religia Żydów?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Judaizm"
+        },
+        {
+          "id": "B",
+          "text": "Politeizm"
+        },
+        {
+          "id": "C",
+          "text": "Buddyzm"
+        },
+        {
+          "id": "D",
+          "text": "Hinduizm"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Judaizm",
+      "acceptedAnswers": [
+        "Judaizm"
+      ],
+      "page": 27,
+      "hint": "Nazwa występuje w pierwszym zdaniu rozdziału „Wyznawcy Jahwe”.",
+      "explanation": "Religią Żydów jest judaizm.",
+      "difficulty": "medium",
+      "concept": "izrael-38"
+    },
+    {
+      "id": "H-039",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywa się wiara w jednego boga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monoteizm"
+        },
+        {
+          "id": "B",
+          "text": "Politeizm"
+        },
+        {
+          "id": "C",
+          "text": "Mitologia"
+        },
+        {
+          "id": "D",
+          "text": "Astrologia"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Monoteizm",
+      "acceptedAnswers": [
+        "Monoteizm"
+      ],
+      "page": 27,
+      "hint": "„Mono” oznacza jeden.",
+      "explanation": "Monoteizm to wiara w jednego boga.",
+      "difficulty": "hard",
+      "concept": "izrael-39"
+    },
+    {
+      "id": "H-040",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak Żydzi nazywali swojego Boga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jahwe"
+        },
+        {
+          "id": "B",
+          "text": "Ra"
+        },
+        {
+          "id": "C",
+          "text": "Ozyrys"
+        },
+        {
+          "id": "D",
+          "text": "Zeus"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Jahwe",
+      "acceptedAnswers": [
+        "Jahwe"
+      ],
+      "page": 27,
+      "hint": "Imię jest wymienione w nagłówku strony.",
+      "explanation": "Boga Izraelitów nazywano Jahwe.",
+      "difficulty": "easy",
+      "concept": "izrael-40"
+    },
+    {
+      "id": "H-041",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywa się święta księga judaizmu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biblia hebrajska"
+        },
+        {
+          "id": "B",
+          "text": "Iliada"
+        },
+        {
+          "id": "C",
+          "text": "Kodeks Hammurabiego"
+        },
+        {
+          "id": "D",
+          "text": "Eneida"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Biblia hebrajska",
+      "acceptedAnswers": [
+        "Biblia hebrajska"
+      ],
+      "page": 27,
+      "hint": "Pierwsze pięć ksiąg tej księgi to Tora.",
+      "explanation": "Świętą księgą judaizmu jest Biblia hebrajska.",
+      "difficulty": "medium",
+      "concept": "izrael-41"
+    },
+    {
+      "id": "H-042",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Co oznacza Tora w ujęciu podręcznika?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pięć pierwszych ksiąg Biblii hebrajskiej"
+        },
+        {
+          "id": "B",
+          "text": "Zbiór praw rzymskich"
+        },
+        {
+          "id": "C",
+          "text": "Egipska księga zmarłych"
+        },
+        {
+          "id": "D",
+          "text": "Księga mitów greckich"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Pięć pierwszych ksiąg Biblii hebrajskiej",
+      "acceptedAnswers": [
+        "Pięć pierwszych ksiąg Biblii hebrajskiej"
+      ],
+      "page": 27,
+      "hint": "Przypomnij sobie inne określenie: Pięcioksiąg.",
+      "explanation": "Tora to pięć pierwszych ksiąg Biblii hebrajskiej.",
+      "difficulty": "hard",
+      "concept": "izrael-42"
+    },
+    {
+      "id": "H-043",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak inaczej nazywa się Dziesięcioro Przykazań?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dekalog"
+        },
+        {
+          "id": "B",
+          "text": "Menora"
+        },
+        {
+          "id": "C",
+          "text": "Sarkofag"
+        },
+        {
+          "id": "D",
+          "text": "Piktogram"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Dekalog",
+      "acceptedAnswers": [
+        "Dekalog"
+      ],
+      "page": 27,
+      "hint": "Nazwa pochodzi od liczby dziesięć.",
+      "explanation": "Dziesięcioro Przykazań to Dekalog.",
+      "difficulty": "easy",
+      "concept": "izrael-43"
+    },
+    {
+      "id": "H-044",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Na jakiej górze Mojżesz miał otrzymać Dekalog?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Synaj"
+        },
+        {
+          "id": "B",
+          "text": "Olimp"
+        },
+        {
+          "id": "C",
+          "text": "Mont Blanc"
+        },
+        {
+          "id": "D",
+          "text": "Ararat"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Synaj",
+      "acceptedAnswers": [
+        "Synaj"
+      ],
+      "page": 27,
+      "hint": "Odszukaj górę w tekście o kamiennych tablicach.",
+      "explanation": "Według Biblii Mojżesz otrzymał Dekalog na górze Synaj.",
+      "difficulty": "medium",
+      "concept": "izrael-44"
+    },
+    {
+      "id": "H-045",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Jak nazywała się skrzynia przechowująca tablice Dekalogu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arka Przymierza"
+        },
+        {
+          "id": "B",
+          "text": "Sarkofag"
+        },
+        {
+          "id": "C",
+          "text": "Menora"
+        },
+        {
+          "id": "D",
+          "text": "Papirus"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Arka Przymierza",
+      "acceptedAnswers": [
+        "Arka Przymierza"
+      ],
+      "page": 27,
+      "hint": "To przedmiot przechowywany w najświętszej części świątyni.",
+      "explanation": "Tablice przechowywano w Arce Przymierza.",
+      "difficulty": "hard",
+      "concept": "izrael-45"
+    },
+    {
+      "id": "H-046",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "W jakim mieście Salomon wzniósł świątynię?",
+      "options": [
+        {
+          "id": "A",
+          "text": "W Jerozolimie"
+        },
+        {
+          "id": "B",
+          "text": "W Memfis"
+        },
+        {
+          "id": "C",
+          "text": "W Atenach"
+        },
+        {
+          "id": "D",
+          "text": "W Rzymie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "W Jerozolimie",
+      "acceptedAnswers": [
+        "W Jerozolimie"
+      ],
+      "page": 27,
+      "hint": "To miasto zostało stolicą za Dawida.",
+      "explanation": "Świątynię wzniesiono w Jerozolimie.",
+      "difficulty": "easy",
+      "concept": "izrael-46"
+    },
+    {
+      "id": "H-047",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Czym jest menora?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Siedmioramiennym świecznikiem"
+        },
+        {
+          "id": "B",
+          "text": "Dziesięcioramienną koroną"
+        },
+        {
+          "id": "C",
+          "text": "Rodzajem łodzi"
+        },
+        {
+          "id": "D",
+          "text": "Rodzajem pisma"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Siedmioramiennym świecznikiem",
+      "acceptedAnswers": [
+        "Siedmioramiennym świecznikiem"
+      ],
+      "page": 28,
+      "hint": "Spójrz na ilustrację przedmiotu na dole strony.",
+      "explanation": "Menora to siedmioramienny świecznik.",
+      "difficulty": "medium",
+      "concept": "izrael-47"
+    },
+    {
+      "id": "H-048",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Co przechowywano w sanktuarium Świątyni Jerozolimskiej?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arkę Przymierza"
+        },
+        {
+          "id": "B",
+          "text": "Mumię faraona"
+        },
+        {
+          "id": "C",
+          "text": "Kamienie do budowy piramid"
+        },
+        {
+          "id": "D",
+          "text": "Gliniane tabliczki Sumerów"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Arkę Przymierza",
+      "acceptedAnswers": [
+        "Arkę Przymierza"
+      ],
+      "page": 28,
+      "hint": "Przypomnij sobie skrzynię z tablicami Dekalogu.",
+      "explanation": "W sanktuarium przechowywano Arkę Przymierza.",
+      "difficulty": "hard",
+      "concept": "izrael-48"
+    },
+    {
+      "id": "H-049",
+      "topic": "izrael",
+      "type": "abcd",
+      "question": "Czym jest Ściana Płaczu w Jerozolimie?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fragment muru podtrzymującego Wzgórze Świątynne"
+        },
+        {
+          "id": "B",
+          "text": "Murem obronnym Egiptu"
+        },
+        {
+          "id": "C",
+          "text": "Pałacem króla Dawida"
+        },
+        {
+          "id": "D",
+          "text": "Grobowcem Salomona"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Fragment muru podtrzymującego Wzgórze Świątynne",
+      "acceptedAnswers": [
+        "Fragment muru podtrzymującego Wzgórze Świątynne"
+      ],
+      "page": 28,
+      "hint": "Zwróć uwagę na podpis pod zdjęciem.",
+      "explanation": "To zachowany fragment muru podtrzymującego Wzgórze Świątynne z czasów Drugiej Świątyni, a nie ściana samego budynku świątyni.",
+      "difficulty": "easy",
+      "concept": "izrael-49"
+    },
+    {
+      "id": "H-050",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Gdzie według podręcznika wynaleziono pismo około 4000 r. p.n.e.?",
+      "options": [
+        {
+          "id": "A",
+          "text": "W Mezopotamii"
+        },
+        {
+          "id": "B",
+          "text": "W Grecji"
+        },
+        {
+          "id": "C",
+          "text": "W Rzymie"
+        },
+        {
+          "id": "D",
+          "text": "W Galii"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "W Mezopotamii",
+      "acceptedAnswers": [
+        "W Mezopotamii"
+      ],
+      "page": 35,
+      "hint": "Sprawdź schemat „Wynalezienie pisma”.",
+      "explanation": "Pismo wynaleziono w Mezopotamii.",
+      "difficulty": "medium",
+      "concept": "pismo-50"
+    },
+    {
+      "id": "H-051",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Który lud jako pierwszy zastosował pismo według podręcznika?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sumerowie"
+        },
+        {
+          "id": "B",
+          "text": "Rzymianie"
+        },
+        {
+          "id": "C",
+          "text": "Fenicjanie"
+        },
+        {
+          "id": "D",
+          "text": "Grecy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Sumerowie",
+      "acceptedAnswers": [
+        "Sumerowie"
+      ],
+      "page": 36,
+      "hint": "Lud ten zamieszkiwał Mezopotamię.",
+      "explanation": "Podręcznik wskazuje Sumerów.",
+      "difficulty": "hard",
+      "concept": "pismo-51"
+    },
+    {
+      "id": "H-052",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Dlaczego wynaleziono pismo?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aby trwale zapisywać informacje"
+        },
+        {
+          "id": "B",
+          "text": "Aby budować szybsze statki"
+        },
+        {
+          "id": "C",
+          "text": "Aby zastąpić rolnictwo"
+        },
+        {
+          "id": "D",
+          "text": "Aby mierzyć temperaturę"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Aby trwale zapisywać informacje",
+      "acceptedAnswers": [
+        "Aby trwale zapisywać informacje"
+      ],
+      "page": 35,
+      "hint": "Pomyśl, czego nie dało się zapamiętać przez wiele lat.",
+      "explanation": "Pismo umożliwiło trwałe utrwalanie informacji.",
+      "difficulty": "easy",
+      "concept": "pismo-52"
+    },
+    {
+      "id": "H-053",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Co przedstawiały prehistoryczne malowidła z Lascaux?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zwierzęta i sceny polowań"
+        },
+        {
+          "id": "B",
+          "text": "Samoloty i pociągi"
+        },
+        {
+          "id": "C",
+          "text": "Bitwy Rzymian"
+        },
+        {
+          "id": "D",
+          "text": "Budowę zamków"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Zwierzęta i sceny polowań",
+      "acceptedAnswers": [
+        "Zwierzęta i sceny polowań"
+      ],
+      "page": 35,
+      "hint": "Spójrz na zdjęcie malowidła i jego podpis.",
+      "explanation": "Malowidła przedstawiają zwierzęta i sceny polowań.",
+      "difficulty": "medium",
+      "concept": "pismo-53"
+    },
+    {
+      "id": "H-054",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "W jakim kraju znajdują się jaskinie Lascaux?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We Francji"
+        },
+        {
+          "id": "B",
+          "text": "W Egipcie"
+        },
+        {
+          "id": "C",
+          "text": "W Polsce"
+        },
+        {
+          "id": "D",
+          "text": "W Grecji"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "We Francji",
+      "acceptedAnswers": [
+        "We Francji"
+      ],
+      "page": 35,
+      "hint": "Nazwa kraju występuje w tekście „Malowane opowieści”.",
+      "explanation": "Lascaux znajduje się we Francji.",
+      "difficulty": "hard",
+      "concept": "pismo-54"
+    },
+    {
+      "id": "H-055",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Czym są piktogramy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Obrazkami przedstawiającymi pojęcia"
+        },
+        {
+          "id": "B",
+          "text": "Rodzajem monet"
+        },
+        {
+          "id": "C",
+          "text": "Świątyniami"
+        },
+        {
+          "id": "D",
+          "text": "Wojskowymi sztandarami"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Obrazkami przedstawiającymi pojęcia",
+      "acceptedAnswers": [
+        "Obrazkami przedstawiającymi pojęcia"
+      ],
+      "page": 36,
+      "hint": "Przyjrzyj się podpisowi pod pierwszą tabliczką.",
+      "explanation": "Piktogramy to obrazki oznaczające pojęcia.",
+      "difficulty": "easy",
+      "concept": "pismo-55"
+    },
+    {
+      "id": "H-056",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Jak nazywa się najstarszy rodzaj pisma, którego znaki przypominały rysunki przedmiotów?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pismo obrazkowe"
+        },
+        {
+          "id": "B",
+          "text": "Pismo łacińskie"
+        },
+        {
+          "id": "C",
+          "text": "Druk komputerowy"
+        },
+        {
+          "id": "D",
+          "text": "Cyrylica"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Pismo obrazkowe",
+      "acceptedAnswers": [
+        "Pismo obrazkowe"
+      ],
+      "page": 36,
+      "hint": "Jego znaki przypominają rysunki przedmiotów.",
+      "explanation": "Najstarsze znaki miały charakter obrazkowy.",
+      "difficulty": "medium",
+      "concept": "pismo-56"
+    },
+    {
+      "id": "H-057",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Na czym Sumerowie utrwalali pismo klinowe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na glinianych tabliczkach"
+        },
+        {
+          "id": "B",
+          "text": "Na ekranach"
+        },
+        {
+          "id": "C",
+          "text": "Na papierze drukarkowym"
+        },
+        {
+          "id": "D",
+          "text": "Na szkle okiennym"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Na glinianych tabliczkach",
+      "acceptedAnswers": [
+        "Na glinianych tabliczkach"
+      ],
+      "page": 36,
+      "hint": "Materiał można było odciskać, gdy był miękki.",
+      "explanation": "Pismo klinowe zapisywano na glinianych tabliczkach.",
+      "difficulty": "hard",
+      "concept": "pismo-57"
+    },
+    {
+      "id": "H-058",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Dlaczego pismo nazwano klinowym?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Znaki miały kształt klinów"
+        },
+        {
+          "id": "B",
+          "text": "Znaki były okrągłe"
+        },
+        {
+          "id": "C",
+          "text": "Pisano wyłącznie kolorami"
+        },
+        {
+          "id": "D",
+          "text": "Używano tylko liter łacińskich"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Znaki miały kształt klinów",
+      "acceptedAnswers": [
+        "Znaki miały kształt klinów"
+      ],
+      "page": 36,
+      "hint": "Spójrz na trójkątne odciski na tabliczce.",
+      "explanation": "Znaki przypominały kliny.",
+      "difficulty": "easy",
+      "concept": "pismo-58"
+    },
+    {
+      "id": "H-059",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Jak nazywano pismo obrazkowe Egipcjan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglify"
+        },
+        {
+          "id": "B",
+          "text": "Cyrylica"
+        },
+        {
+          "id": "C",
+          "text": "Alfabet polski"
+        },
+        {
+          "id": "D",
+          "text": "Pismo runiczne"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Hieroglify",
+      "acceptedAnswers": [
+        "Hieroglify"
+      ],
+      "page": 36,
+      "hint": "Nazwę podano obok ilustracji egipskich znaków.",
+      "explanation": "Egipcjanie używali hieroglifów.",
+      "difficulty": "medium",
+      "concept": "pismo-59"
+    },
+    {
+      "id": "H-060",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Jak nazywał się materiał pisarski wyrabiany z rośliny nad Nilem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Papirus"
+        },
+        {
+          "id": "B",
+          "text": "Pergamin stalowy"
+        },
+        {
+          "id": "C",
+          "text": "Beton"
+        },
+        {
+          "id": "D",
+          "text": "Gliniany klin"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Papirus",
+      "acceptedAnswers": [
+        "Papirus"
+      ],
+      "page": 36,
+      "hint": "Nazwa jest w wyróżnionej ramce obok hieroglifów.",
+      "explanation": "Był to papirus.",
+      "difficulty": "hard",
+      "concept": "pismo-60"
+    },
+    {
+      "id": "H-061",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Co ułatwiło upraszczanie znaków pisma?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Szybsze zapisywanie tekstów"
+        },
+        {
+          "id": "B",
+          "text": "Wydłużenie każdej wiadomości"
+        },
+        {
+          "id": "C",
+          "text": "Zwiększenie liczby rysunków"
+        },
+        {
+          "id": "D",
+          "text": "Zastąpienie pisma mową"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Szybsze zapisywanie tekstów",
+      "acceptedAnswers": [
+        "Szybsze zapisywanie tekstów"
+      ],
+      "page": 37,
+      "hint": "Porównaj rysunek obrazkowy z prostym znakiem.",
+      "explanation": "Uproszczenie znaków przyspieszało pisanie.",
+      "difficulty": "easy",
+      "concept": "pismo-61"
+    },
+    {
+      "id": "H-062",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Który lud stworzył alfabet około XI wieku p.n.e.?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fenicjanie"
+        },
+        {
+          "id": "B",
+          "text": "Egipcjanie"
+        },
+        {
+          "id": "C",
+          "text": "Rzymianie"
+        },
+        {
+          "id": "D",
+          "text": "Sumerowie"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Fenicjanie",
+      "acceptedAnswers": [
+        "Fenicjanie"
+      ],
+      "page": 37,
+      "hint": "Byli kupcami i żeglarzami nad Morzem Śródziemnym.",
+      "explanation": "Alfabet fenicki powstał około XI wieku p.n.e.",
+      "difficulty": "medium",
+      "concept": "pismo-62"
+    },
+    {
+      "id": "H-063",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Ile znaków miał alfabet fenicki?",
+      "options": [
+        {
+          "id": "A",
+          "text": "22"
+        },
+        {
+          "id": "B",
+          "text": "32"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "22",
+      "acceptedAnswers": [
+        "22"
+      ],
+      "page": 37,
+      "hint": "Pomyśl o niewielkim zestawie znaków, którym można było zapisywać wiele różnych słów.",
+      "explanation": "Alfabet fenicki miał 22 znaki.",
+      "difficulty": "hard",
+      "concept": "pismo-63"
+    },
+    {
+      "id": "H-064",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Jakich głosek dotyczyły znaki alfabetu fenickiego?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spółgłosek"
+        },
+        {
+          "id": "B",
+          "text": "Wyłącznie samogłosek"
+        },
+        {
+          "id": "C",
+          "text": "Wyłącznie sylab"
+        },
+        {
+          "id": "D",
+          "text": "Całych zdań"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Spółgłosek",
+      "acceptedAnswers": [
+        "Spółgłosek"
+      ],
+      "page": 37,
+      "hint": "Grecy później dodali znaki dla innej grupy głosek.",
+      "explanation": "Alfabet fenicki zapisywał spółgłoski.",
+      "difficulty": "easy",
+      "concept": "pismo-64"
+    },
+    {
+      "id": "H-065",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Który lud rozwinął alfabet fenicki, dodając samogłoski?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grecy"
+        },
+        {
+          "id": "B",
+          "text": "Sumerowie"
+        },
+        {
+          "id": "C",
+          "text": "Egipcjanie"
+        },
+        {
+          "id": "D",
+          "text": "Babilończycy"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Grecy",
+      "acceptedAnswers": [
+        "Grecy"
+      ],
+      "page": 37,
+      "hint": "Ich alfabet stał się podstawą kolejnych alfabetów.",
+      "explanation": "Grecy dodali znaki samogłosek.",
+      "difficulty": "medium",
+      "concept": "pismo-65"
+    },
+    {
+      "id": "H-066",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Który lud stworzył alfabet łaciński na podstawie greckiego?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rzymianie"
+        },
+        {
+          "id": "B",
+          "text": "Fenicjanie"
+        },
+        {
+          "id": "C",
+          "text": "Sumerowie"
+        },
+        {
+          "id": "D",
+          "text": "Izraelici"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Rzymianie",
+      "acceptedAnswers": [
+        "Rzymianie"
+      ],
+      "page": 37,
+      "hint": "Przypomnij sobie cywilizację, która przejęła wiele osiągnięć Greków i rozpowszechniła swój język w zachodniej Europie.",
+      "explanation": "Rzymianie stworzyli alfabet łaciński.",
+      "difficulty": "hard",
+      "concept": "pismo-66"
+    },
+    {
+      "id": "H-067",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Na jakim alfabecie opiera się alfabet polski?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Łacińskim"
+        },
+        {
+          "id": "B",
+          "text": "Klinowym"
+        },
+        {
+          "id": "C",
+          "text": "Fenickim bez zmian"
+        },
+        {
+          "id": "D",
+          "text": "Egipskim obrazkowym"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Łacińskim",
+      "acceptedAnswers": [
+        "Łacińskim"
+      ],
+      "page": 39,
+      "hint": "Ten alfabet rozwinęli Rzymianie.",
+      "explanation": "Polski alfabet opiera się na łacińskim.",
+      "difficulty": "easy",
+      "concept": "pismo-67"
+    },
+    {
+      "id": "H-068",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Ile liter liczy alfabet polski?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32"
+        },
+        {
+          "id": "B",
+          "text": "22"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "32",
+      "acceptedAnswers": [
+        "32"
+      ],
+      "page": 39,
+      "hint": "Policz litery, uwzględniając także polskie znaki, takie jak ą, ć i ł.",
+      "explanation": "Alfabet polski ma 32 litery. Na zdjęciu strony 39 podręcznika podano 31 — to nieścisłość w podręczniku.",
+      "difficulty": "medium",
+      "concept": "pismo-68"
+    },
+    {
+      "id": "H-069",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Jak nazywa się pismo stworzone na podstawie alfabetu greckiego i używane przez część Słowian?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cyrylica"
+        },
+        {
+          "id": "B",
+          "text": "Hieroglify"
+        },
+        {
+          "id": "C",
+          "text": "Pismo klinowe"
+        },
+        {
+          "id": "D",
+          "text": "Alfabet fenicki"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Cyrylica",
+      "acceptedAnswers": [
+        "Cyrylica"
+      ],
+      "page": 39,
+      "hint": "Nazwa nawiązuje do świętego Cyryla.",
+      "explanation": "Jest to cyrylica.",
+      "difficulty": "hard",
+      "concept": "pismo-69"
+    },
+    {
+      "id": "H-070",
+      "topic": "pismo",
+      "type": "abcd",
+      "question": "Który z wymienionych języków korzysta z cyrylicy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ukraiński"
+        },
+        {
+          "id": "B",
+          "text": "Polski"
+        },
+        {
+          "id": "C",
+          "text": "Angielski"
+        },
+        {
+          "id": "D",
+          "text": "Francuski"
+        }
+      ],
+      "correctOption": "A",
+      "correctAnswer": "Ukraiński",
+      "acceptedAnswers": [
+        "Ukraiński"
+      ],
+      "page": 39,
+      "hint": "Pomyśl o języku kraju sąsiadującego z Polską na wschodzie.",
+      "explanation": "Język ukraiński zapisuje się cyrylicą.",
+      "difficulty": "easy",
+      "concept": "pismo-70"
+    },
+    {
+      "id": "H-071",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wyjaśnij, dlaczego Egipt nazywano darem Nilu.",
+      "correctAnswer": "Ponieważ Nil dostarczał wodę i żyzny muł, umożliwiając uprawę ziemi.",
+      "acceptedAnswers": [
+        "Ponieważ Nil dostarczał wodę i żyzny muł, umożliwiając uprawę ziemi."
+      ],
+      "page": 20,
+      "hint": "Przypomnij sobie skutki corocznych wylewów rzeki.",
+      "explanation": "Ponieważ Nil dostarczał wodę i żyzny muł, umożliwiając uprawę ziemi.",
+      "difficulty": "medium",
+      "concept": "egipt-71"
+    },
+    {
+      "id": "H-072",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Podaj dwie czynności wykonywane przez chłopów w starożytnym Egipcie.",
+      "correctAnswer": "Uprawiali ziemię i budowali lub oczyszczali kanały nawadniające.",
+      "acceptedAnswers": [
+        "Uprawiali ziemię i budowali lub oczyszczali kanały nawadniające."
+      ],
+      "page": 21,
+      "hint": "Pomyśl o polach i systemie doprowadzania wody.",
+      "explanation": "Uprawiali ziemię i budowali lub oczyszczali kanały nawadniające.",
+      "difficulty": "hard",
+      "concept": "egipt-72"
+    },
+    {
+      "id": "H-073",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wymień trzy grupy społeczne starożytnego Egiptu poza faraonem.",
+      "correctAnswer": "Kapłani, urzędnicy i chłopi.",
+      "acceptedAnswers": [
+        "Kapłani, urzędnicy i chłopi."
+      ],
+      "page": 21,
+      "hint": "Spójrz na poziomy piramidy społecznej.",
+      "explanation": "Kapłani, urzędnicy i chłopi.",
+      "difficulty": "easy",
+      "concept": "egipt-73"
+    },
+    {
+      "id": "H-074",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wyjaśnij, czym był politeizm w starożytnym Egipcie.",
+      "correctAnswer": "Była to wiara w wielu bogów.",
+      "acceptedAnswers": [
+        "Była to wiara w wielu bogów."
+      ],
+      "page": 22,
+      "hint": "Przypomnij sobie znaczenie słowa „poli”.",
+      "explanation": "Była to wiara w wielu bogów.",
+      "difficulty": "medium",
+      "concept": "egipt-74"
+    },
+    {
+      "id": "H-075",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Opisz krótko, jak powstawała mumia.",
+      "correctAnswer": "Usuwano wnętrzności, balsamowano ciało i owijano je bandażami.",
+      "acceptedAnswers": [
+        "Usuwano wnętrzności, balsamowano ciało i owijano je bandażami."
+      ],
+      "page": 22,
+      "hint": "Przypomnij sobie kolejne czynności z ilustracji.",
+      "explanation": "Usuwano wnętrzności, balsamowano ciało i owijano je bandażami.",
+      "difficulty": "hard",
+      "concept": "egipt-75"
+    },
+    {
+      "id": "H-076",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wyjaśnij, po co Egipcjanie budowali piramidy.",
+      "correctAnswer": "Piramidy były grobowcami niektórych faraonów.",
+      "acceptedAnswers": [
+        "Piramidy były grobowcami niektórych faraonów."
+      ],
+      "page": 23,
+      "hint": "Pomyśl o przeznaczeniu komór wewnątrz budowli.",
+      "explanation": "Piramidy były grobowcami niektórych faraonów.",
+      "difficulty": "easy",
+      "concept": "egipt-76"
+    },
+    {
+      "id": "H-077",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Podaj dwa sposoby ułatwiające budowę egipskich piramid.",
+      "correctAnswer": "Bloki przewożono statkami po Nilu i podnoszono za pomocą dźwigni.",
+      "acceptedAnswers": [
+        "Bloki przewożono statkami po Nilu i podnoszono za pomocą dźwigni."
+      ],
+      "page": 23,
+      "hint": "Spójrz na ilustracje transportu i podnoszenia kamieni.",
+      "explanation": "Bloki przewożono statkami po Nilu i podnoszono za pomocą dźwigni.",
+      "difficulty": "medium",
+      "concept": "egipt-77"
+    },
+    {
+      "id": "H-078",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wyjaśnij, czym były hieroglify.",
+      "correctAnswer": "Były egipskim pismem obrazkowym.",
+      "acceptedAnswers": [
+        "Były egipskim pismem obrazkowym."
+      ],
+      "page": 24,
+      "hint": "To system znaków widoczny na egipskich zabytkach.",
+      "explanation": "Były egipskim pismem obrazkowym.",
+      "difficulty": "hard",
+      "concept": "egipt-78"
+    },
+    {
+      "id": "H-079",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wymień dwa osiągnięcia cywilizacyjne Egipcjan inne niż piramidy.",
+      "correctAnswer": "Rozwój medycyny i opracowanie kalendarza liczącego 365 dni.",
+      "acceptedAnswers": [
+        "Rozwój medycyny i opracowanie kalendarza liczącego 365 dni."
+      ],
+      "page": 24,
+      "hint": "Pomyśl o wiedzy dotyczącej ludzkiego ciała i mierzenia czasu.",
+      "explanation": "Rozwój medycyny i opracowanie kalendarza liczącego 365 dni.",
+      "difficulty": "easy",
+      "concept": "egipt-79"
+    },
+    {
+      "id": "H-080",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Dlaczego odkrycie grobowca Tutanchamona było ważne dla historyków?",
+      "correctAnswer": "Ponieważ zachował się niemal nienaruszony grób z mumią i licznymi przedmiotami pozwalającymi poznać życie Egipcjan.",
+      "acceptedAnswers": [
+        "Ponieważ zachował się niemal nienaruszony grób z mumią i licznymi przedmiotami pozwalającymi poznać życie Egipcjan."
+      ],
+      "page": 24,
+      "hint": "Zwróć uwagę, jak wiele przedmiotów znaleziono w grobowcu.",
+      "explanation": "Ponieważ zachował się niemal nienaruszony grób z mumią i licznymi przedmiotami pozwalającymi poznać życie Egipcjan.",
+      "difficulty": "medium",
+      "concept": "egipt-80"
+    },
+    {
+      "id": "H-081",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Wymień dwa zadania faraona w Egipcie.",
+      "correctAnswer": "Stanowił prawa i dowodził wojskiem.",
+      "acceptedAnswers": [
+        "Stanowił prawa i dowodził wojskiem."
+      ],
+      "page": 21,
+      "hint": "Przypomnij sobie, kto podejmował najważniejsze decyzje w państwie.",
+      "explanation": "Stanowił prawa i dowodził wojskiem.",
+      "difficulty": "hard",
+      "concept": "egipt-81"
+    },
+    {
+      "id": "H-082",
+      "topic": "egipt",
+      "type": "open",
+      "question": "Dlaczego świątynię Abu Simbel przeniesiono w inne miejsce?",
+      "correctAnswer": "Aby uratować ją przed zalaniem po budowie tamy w Asuanie.",
+      "acceptedAnswers": [
+        "Aby uratować ją przed zalaniem po budowie tamy w Asuanie."
+      ],
+      "page": 25,
+      "hint": "Pomyśl o zagrożeniu wywołanym przez sztuczne jezioro.",
+      "explanation": "Aby uratować ją przed zalaniem po budowie tamy w Asuanie.",
+      "difficulty": "easy",
+      "concept": "egipt-82"
+    },
+    {
+      "id": "H-083",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Kim według Biblii był Abraham i skąd przybył z Izraelitami?",
+      "correctAnswer": "Był przywódcą Izraelitów, którzy przybyli z Mezopotamii do Palestyny.",
+      "acceptedAnswers": [
+        "Był przywódcą Izraelitów, którzy przybyli z Mezopotamii do Palestyny."
+      ],
+      "page": 26,
+      "hint": "Przypomnij sobie początek wędrówki do Ziemi Kanaan.",
+      "explanation": "Był przywódcą Izraelitów, którzy przybyli z Mezopotamii do Palestyny.",
+      "difficulty": "medium",
+      "concept": "izrael-83"
+    },
+    {
+      "id": "H-084",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Opisz rolę Mojżesza w dziejach Izraelitów.",
+      "correctAnswer": "Wyprowadził Izraelitów z Egiptu i według Biblii otrzymał od Boga Dekalog.",
+      "acceptedAnswers": [
+        "Wyprowadził Izraelitów z Egiptu i według Biblii otrzymał od Boga Dekalog."
+      ],
+      "page": 26,
+      "hint": "Połącz wydarzenie wyjścia z Egiptu z górą Synaj.",
+      "explanation": "Wyprowadził Izraelitów z Egiptu i według Biblii otrzymał od Boga Dekalog.",
+      "difficulty": "hard",
+      "concept": "izrael-84"
+    },
+    {
+      "id": "H-085",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Wymień dwóch królów, za których Izrael osiągnął największą potęgę.",
+      "correctAnswer": "Dawid i Salomon.",
+      "acceptedAnswers": [
+        "Dawid i Salomon."
+      ],
+      "page": 26,
+      "hint": "Chodzi o ojca i syna.",
+      "explanation": "Dawid i Salomon.",
+      "difficulty": "easy",
+      "concept": "izrael-85"
+    },
+    {
+      "id": "H-086",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Wyjaśnij, na czym polegała niewola babilońska.",
+      "correctAnswer": "Babilończycy zdobyli Jerozolimę i uprowadzili Izraelitów do Babilonii.",
+      "acceptedAnswers": [
+        "Babilończycy zdobyli Jerozolimę i uprowadzili Izraelitów do Babilonii."
+      ],
+      "page": 26,
+      "hint": "Pomyśl, co stało się z mieszkańcami po zdobyciu miasta.",
+      "explanation": "Babilończycy zdobyli Jerozolimę i uprowadzili Izraelitów do Babilonii.",
+      "difficulty": "medium",
+      "concept": "izrael-86"
+    },
+    {
+      "id": "H-087",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Czym judaizm różnił się od wierzeń starożytnych Egipcjan?",
+      "correctAnswer": "Judaizm był monoteistyczny, a Egipcjanie wierzyli w wielu bogów.",
+      "acceptedAnswers": [
+        "Judaizm był monoteistyczny, a Egipcjanie wierzyli w wielu bogów."
+      ],
+      "page": 27,
+      "hint": "Porównaj liczbę bogów w obu religiach.",
+      "explanation": "Judaizm był monoteistyczny, a Egipcjanie wierzyli w wielu bogów.",
+      "difficulty": "hard",
+      "concept": "izrael-87"
+    },
+    {
+      "id": "H-088",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Wyjaśnij, czym jest Tora.",
+      "correctAnswer": "To pięć pierwszych ksiąg Biblii hebrajskiej.",
+      "acceptedAnswers": [
+        "To pięć pierwszych ksiąg Biblii hebrajskiej."
+      ],
+      "page": 27,
+      "hint": "Przypomnij sobie określenie „Pięcioksiąg”.",
+      "explanation": "To pięć pierwszych ksiąg Biblii hebrajskiej.",
+      "difficulty": "easy",
+      "concept": "izrael-88"
+    },
+    {
+      "id": "H-089",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Co według Biblii zawierały tablice przechowywane w Arce Przymierza?",
+      "correctAnswer": "Dziesięcioro Przykazań, czyli Dekalog.",
+      "acceptedAnswers": [
+        "Dziesięcioro Przykazań, czyli Dekalog."
+      ],
+      "page": 27,
+      "hint": "Przypomnij sobie wydarzenie na górze Synaj.",
+      "explanation": "Dziesięcioro Przykazań, czyli Dekalog.",
+      "difficulty": "medium",
+      "concept": "izrael-89"
+    },
+    {
+      "id": "H-090",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Wyjaśnij, dlaczego Jerozolima była ważna dla Izraelitów.",
+      "correctAnswer": "Była stolicą państwa Dawida i miejscem Świątyni Jerozolimskiej.",
+      "acceptedAnswers": [
+        "Była stolicą państwa Dawida i miejscem Świątyni Jerozolimskiej."
+      ],
+      "page": 26,
+      "hint": "Połącz króla Dawida z budowlą wzniesioną za Salomona.",
+      "explanation": "Była stolicą państwa Dawida i miejscem Świątyni Jerozolimskiej.",
+      "difficulty": "hard",
+      "concept": "izrael-90"
+    },
+    {
+      "id": "H-091",
+      "topic": "izrael",
+      "type": "open",
+      "question": "Podaj dwa symbole judaizmu lub narodu żydowskiego wymienione w podręczniku.",
+      "correctAnswer": "Menora i Gwiazda Dawida.",
+      "acceptedAnswers": [
+        "Menora i Gwiazda Dawida."
+      ],
+      "page": 28,
+      "hint": "Jeden symbol to świecznik, drugi to gwiazda.",
+      "explanation": "Menora i Gwiazda Dawida.",
+      "difficulty": "easy",
+      "concept": "izrael-91"
+    },
+    {
+      "id": "H-092",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Podaj dwa powody wynalezienia pisma.",
+      "correctAnswer": "Potrzeba trwałego zachowywania informacji i usprawnienia handlu.",
+      "acceptedAnswers": [
+        "Potrzeba trwałego zachowywania informacji i usprawnienia handlu."
+      ],
+      "page": 35,
+      "hint": "Pomyśl o pamięci ludzi i zapisywaniu transakcji.",
+      "explanation": "Potrzeba trwałego zachowywania informacji i usprawnienia handlu.",
+      "difficulty": "medium",
+      "concept": "pismo-92"
+    },
+    {
+      "id": "H-093",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Czym różniło się pismo obrazkowe od alfabetu?",
+      "correctAnswer": "Pismo obrazkowe przedstawiało pojęcia rysunkami, a alfabet używał liter oznaczających głoski.",
+      "acceptedAnswers": [
+        "Pismo obrazkowe przedstawiało pojęcia rysunkami, a alfabet używał liter oznaczających głoski."
+      ],
+      "page": 36,
+      "hint": "Porównaj obrazek przedmiotu z pojedynczą literą.",
+      "explanation": "Pismo obrazkowe przedstawiało pojęcia rysunkami, a alfabet używał liter oznaczających głoski.",
+      "difficulty": "hard",
+      "concept": "pismo-93"
+    },
+    {
+      "id": "H-094",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Wyjaśnij, jak powstało pismo klinowe.",
+      "correctAnswer": "Powstało przez upraszczanie obrazków do znaków odciskanych w glinianych tabliczkach.",
+      "acceptedAnswers": [
+        "Powstało przez upraszczanie obrazków do znaków odciskanych w glinianych tabliczkach."
+      ],
+      "page": 36,
+      "hint": "Przypomnij sobie kolejne trzy ilustracje tabliczek.",
+      "explanation": "Powstało przez upraszczanie obrazków do znaków odciskanych w glinianych tabliczkach.",
+      "difficulty": "easy",
+      "concept": "pismo-94"
+    },
+    {
+      "id": "H-095",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Podaj przykład zastosowania pisma w starożytnym państwie.",
+      "correctAnswer": "Zapisywanie praw lub informacji o podatkach.",
+      "acceptedAnswers": [
+        "Zapisywanie praw lub informacji o podatkach."
+      ],
+      "page": 35,
+      "hint": "Pomyśl o obowiązkach władców i urzędników.",
+      "explanation": "Zapisywanie praw lub informacji o podatkach.",
+      "difficulty": "medium",
+      "concept": "pismo-95"
+    },
+    {
+      "id": "H-096",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Dlaczego alfabet fenicki był wygodniejszy od wcześniejszych rodzajów pisma?",
+      "correctAnswer": "Miał niewiele znaków odpowiadających głoskom, więc łatwiej było się go nauczyć i używać.",
+      "acceptedAnswers": [
+        "Miał niewiele znaków odpowiadających głoskom, więc łatwiej było się go nauczyć i używać."
+      ],
+      "page": 37,
+      "hint": "Porównaj liczbę liter z liczbą dawnych znaków obrazkowych.",
+      "explanation": "Miał niewiele znaków odpowiadających głoskom, więc łatwiej było się go nauczyć i używać.",
+      "difficulty": "hard",
+      "concept": "pismo-96"
+    },
+    {
+      "id": "H-097",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Jaką ważną zmianę Grecy wprowadzili do alfabetu fenickiego?",
+      "correctAnswer": "Dodali litery oznaczające samogłoski.",
+      "acceptedAnswers": [
+        "Dodali litery oznaczające samogłoski."
+      ],
+      "page": 37,
+      "hint": "Fenicjanie zapisywali tylko jeden rodzaj głosek.",
+      "explanation": "Dodali litery oznaczające samogłoski.",
+      "difficulty": "easy",
+      "concept": "pismo-97"
+    },
+    {
+      "id": "H-098",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Wyjaśnij, skąd pochodzi alfabet polski.",
+      "correctAnswer": "Wywodzi się z alfabetu łacińskiego, który Rzymianie opracowali na podstawie greckiego.",
+      "acceptedAnswers": [
+        "Wywodzi się z alfabetu łacińskiego, który Rzymianie opracowali na podstawie greckiego."
+      ],
+      "page": 39,
+      "hint": "Prześledź kolejność: Grecy, Rzymianie, Polacy.",
+      "explanation": "Wywodzi się z alfabetu łacińskiego, który Rzymianie opracowali na podstawie greckiego.",
+      "difficulty": "medium",
+      "concept": "pismo-98"
+    },
+    {
+      "id": "H-099",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Czym jest cyrylica i kto jej używa według podręcznika?",
+      "correctAnswer": "To pismo oparte na alfabecie greckim, używane m.in. przez Ukraińców, Rosjan, Białorusinów, Serbów i Bułgarów.",
+      "acceptedAnswers": [
+        "To pismo oparte na alfabecie greckim, używane m.in. przez Ukraińców, Rosjan, Białorusinów, Serbów i Bułgarów."
+      ],
+      "page": 39,
+      "hint": "Pomyśl o części języków słowiańskich na wschodzie Europy.",
+      "explanation": "To pismo oparte na alfabecie greckim, używane m.in. przez Ukraińców, Rosjan, Białorusinów, Serbów i Bułgarów.",
+      "difficulty": "hard",
+      "concept": "pismo-99"
+    },
+    {
+      "id": "H-100",
+      "topic": "pismo",
+      "type": "open",
+      "question": "Wyjaśnij, dlaczego upraszczano znaki pisma.",
+      "correctAnswer": "Aby szybciej i łatwiej zapisywać informacje.",
+      "acceptedAnswers": [
+        "Aby szybciej i łatwiej zapisywać informacje."
+      ],
+      "page": 37,
+      "hint": "Zastanów się, co trwa krócej: rysowanie obrazka czy zapis prostego znaku.",
+      "explanation": "Aby szybciej i łatwiej zapisywać informacje.",
+      "difficulty": "easy",
+      "concept": "pismo-100"
+    }
+  ]
+}

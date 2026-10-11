@@ -1,0 +1,110 @@
+[
+  {
+    "id": "H-068",
+    "reason": "Usunięto błędne przypisanie liczby 32 podręcznikowi; poprawna liczba potwierdzona przez ZPE.",
+    "before": {
+      "question": "Ile znaków liczy alfabet polski według podręcznika?",
+      "explanation": "Podręcznik podaje 32 znaki."
+    },
+    "after": {
+      "question": "Ile liter liczy alfabet polski?",
+      "explanation": "Alfabet polski ma 32 litery. Na zdjęciu strony 39 podręcznika podano 31 — to nieścisłość w podręczniku."
+    }
+  },
+  {
+    "id": "H-049",
+    "reason": "Doprecyzowano uproszczenie z podręcznika zgodnie z Western Wall Heritage Foundation.",
+    "before": {
+      "question": "Czym jest Ściana Płaczu według podręcznika?",
+      "correctAnswer": "Pozostałością Drugiej Świątyni Jerozolimskiej",
+      "acceptedAnswers": [
+        "Pozostałością Drugiej Świątyni Jerozolimskiej"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Pozostałością Drugiej Świątyni Jerozolimskiej"
+        },
+        {
+          "id": "B",
+          "text": "Murem obronnym Egiptu"
+        },
+        {
+          "id": "C",
+          "text": "Pałacem króla Dawida"
+        },
+        {
+          "id": "D",
+          "text": "Grobowcem Salomona"
+        }
+      ],
+      "explanation": "Ściana Płaczu jest pozostałością Drugiej Świątyni Jerozolimskiej."
+    },
+    "after": {
+      "question": "Czym jest Ściana Płaczu w Jerozolimie?",
+      "correctAnswer": "Fragment muru podtrzymującego Wzgórze Świątynne",
+      "acceptedAnswers": [
+        "Fragment muru podtrzymującego Wzgórze Świątynne"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Fragment muru podtrzymującego Wzgórze Świątynne"
+        },
+        {
+          "id": "B",
+          "text": "Murem obronnym Egiptu"
+        },
+        {
+          "id": "C",
+          "text": "Pałacem króla Dawida"
+        },
+        {
+          "id": "D",
+          "text": "Grobowcem Salomona"
+        }
+      ],
+      "explanation": "To zachowany fragment muru podtrzymującego Wzgórze Świątynne z czasów Drugiej Świątyni, a nie ściana samego budynku świątyni."
+    }
+  },
+  {
+    "id": "H-056",
+    "reason": "Usunięto zależność pytania od niewyświetlanej ilustracji tabliczek.",
+    "before": {
+      "question": "Jak nazywa się najstarszy rodzaj pisma przedstawiony na tabliczkach?"
+    },
+    "after": {
+      "question": "Jak nazywa się najstarszy rodzaj pisma, którego znaki przypominały rysunki przedmiotów?"
+    }
+  },
+  {
+    "id": "H-066",
+    "reason": "Poprzednia podpowiedź podawała wprost mieszkańców Rzymu.",
+    "before": {
+      "hint": "Chodzi o mieszkańców starożytnego Rzymu."
+    },
+    "after": {
+      "hint": "Przypomnij sobie cywilizację, która przejęła wiele osiągnięć Greków i rozpowszechniła swój język w zachodniej Europie."
+    }
+  },
+  {
+    "id": "H-063",
+    "reason": "Usunięto podpowiedź wprost eliminującą warianty przez porównanie liczby znaków.",
+    "before": {
+      "hint": "To mniej znaków niż ma alfabet polski."
+    },
+    "after": {
+      "hint": "Pomyśl o niewielkim zestawie znaków, którym można było zapisywać wiele różnych słów."
+    }
+  },
+  {
+    "id": "H-068",
+    "reason": "Usunięto bezpośrednie porównanie eliminujące warianty.",
+    "before": {
+      "hint": "Jest ich więcej niż w alfabecie łacińskim."
+    },
+    "after": {
+      "hint": "Policz litery, uwzględniając także polskie znaki, takie jak ą, ć i ł."
+    }
+  }
+]
