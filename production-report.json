@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-11T15:03:31.724Z",
+  "checks": [
+    {
+      "name": "worker-health",
+      "value": {
+        "ok": true,
+        "quiz": "historia",
+        "questions": 100
+      }
+    },
+    {
+      "name": "HTTPS",
+      "value": 200
+    },
+    {
+      "name": "production-picks",
+      "value": [
+        "H-013",
+        "H-057",
+        "H-097",
+        "H-039",
+        "H-008",
+        "H-038",
+        "H-078",
+        "H-088",
+        "H-045",
+        "H-063"
+      ]
+    },
+    {
+      "name": "local-hint",
+      "value": true
+    },
+    {
+      "name": "answer-H-013",
+      "value": "Dobrze! Odpowiedź jest poprawna.Politeizm to wiara w wielu bogów."
+    },
+    {
+      "name": "answer-H-057",
+      "value": "Dobrze! Odpowiedź jest poprawna.Pismo klinowe zapisywano na glinianych tabliczkach."
+    },
+    {
+      "name": "answer-H-097",
+      "value": "Ocena AI: 2/2 pktPoprawna odpowiedź! Grecy dodali litery oznaczające samogłoski do alfabetu fenickiego, co było ważnym krokiem w rozwoju pisma.Przykładowa odpowiedź: Dodali litery oznaczające samogłoski."
+    },
+    {
+      "name": "production-resume",
+      "value": true
+    },
+    {
+      "name": "answer-H-039",
+      "value": "Dobrze! Odpowiedź jest poprawna.Monoteizm to wiara w jednego boga."
+    },
+    {
+      "name": "answer-H-008",
+      "value": "Dobrze! Odpowiedź jest poprawna.Najwyżej w hierarchii stał faraon."
+    },
+    {
+      "name": "answer-H-038",
+      "value": "Dobrze! Odpowiedź jest poprawna.Religią Żydów jest judaizm."
+    },
+    {
+      "name": "answer-H-078",
+      "value": "Ocena AI: 2/2 pktPoprawna odpowiedź. Hieroglify były rzeczywiście egipskim pismem obrazkowym.Przykładowa odpowiedź: Były egipskim pismem obrazkowym."
+    },
+    {
+      "name": "answer-H-088",
+      "value": "Ocena AI: 2/2 pktPoprawna odpowiedź. Tora to pięć pierwszych ksiąg Biblii hebrajskiej, które są podstawą judaizmu.Przykładowa odpowiedź: To pięć pierwszych ksiąg Biblii hebrajskiej."
+    },
+    {
+      "name": "answer-H-045",
+      "value": "Dobrze! Odpowiedź jest poprawna.Tablice przechowywano w Arce Przymierza."
+    },
+    {
+      "name": "answer-H-063",
+      "value": "Dobrze! Odpowiedź jest poprawna.Alfabet fenicki miał 22 znaki."
+    },
+    {
+      "name": "result",
+      "value": "13/13 pkt · 100% punktów"
+    },
+    {
+      "name": "ranking-saved",
+      "value": "Wynik zapisany. Ranking pokazuje najlepszy wynik każdego pseudonimu."
+    },
+    {
+      "name": "javascript-errors",
+      "value": []
+    },
+    {
+      "name": "real-ai-wrong-answer",
+      "value": {
+        "id": "H-074",
+        "score": 0,
+        "feedback": "Niestety, Twoja odpowiedź jest błędna. Starożytny Egipt był cywilizacją na Ziemi, a pismo było znane od tysiącleci. Politeizm w starożytnym Egipcie to wiara w wielu bogów, takich jak Ra, Isis czy Anubis. Poprawna odpowiedź to: Była to wiara w wielu bogów."
+      }
+    },
+    {
+      "name": "biology-choice",
+      "value": "Dobrze! Odpowiedź jest poprawna."
+    },
+    {
+      "name": "biology-open",
+      "value": "Ocena AI: 1/2 pktOdpowiedź jest niepełna i powtarza się w każdej sekcji. Brakuje opisu nakrywania szkiełkiem nakrywkowym, rozpoczęcia obserwacji od najmniejszego powiększenia oraz wyjaśnienia, na co uważać przy zbliżaniu obiektywu. Obliczenie powiększenia jest poprawne, ale nie jest wyraźnie oddzielone od reszty odpowiedzi.Przykładowa odpowiedź: Potrzebne są cebula, woda, szkiełko podstawowe i nakrywkowe, zakraplacz, pęseta oraz igła preparacyjna. Na szkiełko podstawowe nanosimy kroplę wody. Z wewnętrznej strony białego liścia spichrzowego cebuli zdejmujemy skórkę i umieszczamy jej fragment w kropli. Ostrożnie nakrywamy go szkiełkiem nakrywkowym przykładanym ukośnie. Preparat kładziemy na stoliku. Zaczynamy od najmniejszego powiększenia; obiektyw nie może dotknąć preparatu. Powiększenie: 10 × 40 = 400 razy."
+    },
+    {
+      "name": "biology-regression",
+      "value": {
+        "status": 200,
+        "questions": 100,
+        "ai": true,
+        "errors": []
+      }
+    }
+  ]
+}

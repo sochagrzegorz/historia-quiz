@@ -1,0 +1,23 @@
+[
+  {
+    "id": "H-072",
+    "question": "Podaj dwie czynności wykonywane przez chłopów w starożytnym Egipcie.",
+    "answer": "Siali i zbierali plony. Dbali też o kanały, którymi płynęła woda na pola.",
+    "score": 2,
+    "feedback": "Poprawna odpowiedź. Chłopi w starożytnym Egipcie zajmowali się uprawą ziemi, co obejmuje sianie i zbieranie plonów, oraz utrzymaniem kanałów nawadniających, aby zapewnić wodę na pola."
+  },
+  {
+    "id": "H-075",
+    "question": "Opisz krótko, jak powstawała mumia.",
+    "answer": "Wyjmowali organy, konserwowali zwłoki i zawijali je w pasy materiału.",
+    "score": 2,
+    "feedback": "Poprawna odpowiedź, opisano wszystkie niezbędne etapy powstawania mumii."
+  },
+  {
+    "id": "H-099",
+    "question": "Czym jest cyrylica i kto jej używa według podręcznika?",
+    "answer": "Alfabet wywodzący się z greckiego, używany na przykład przez Bułgarów.",
+    "score": 2,
+    "feedback": "Poprawna odpowiedź. Cyrylica jest alfabetem opartym na greckim i używanym przez Bułgarów."
+  }
+]

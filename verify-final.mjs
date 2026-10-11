@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const base='https://sochagrzegorz.github.io/historia-quiz/';
+const local=JSON.parse(fs.readFileSync('egipt_izrael_pismo_pytania.json','utf8'));
+const response=await fetch(base+'egipt_izrael_pismo_pytania.json?verification='+Date.now());
+assert.equal(response.status,200);
+assert.deepEqual(await response.json(),local);
+const page=await fetch(base);assert.equal(page.status,200);
+const html=await page.text();assert.ok(html.includes('Egipt Izrael'));assert.ok(!html.includes('<audio'));
+const api='https://historia-quiz-ai.sochagrzegorz.workers.dev';
+const health=await fetch(api+'/health');assert.equal(health.status,200);
+console.log(JSON.stringify({https:200,bankMatchesLocal:true,questions:local.questions.length,hints:local.questions.filter(q=>q.hint).length,health:await health.json()}));

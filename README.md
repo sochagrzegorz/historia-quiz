@@ -1,5 +1,7 @@
 # Egipt Izrael pismo
 
+Opublikowany quiz: https://sochagrzegorz.github.io/historia-quiz/ — [raport testów i ograniczeń](TEST_REPORT.md).
+
 Historia — klasa 5. Quiz oparty na rzeczywistym kodzie biologii z `sochagrzegorz/quiz/biologia/index.html` (SHA źródła a28c1eb5866b4d1f3adfd8e87adeb4632a09b22f).
 
 100 dostarczonych pytań: Egipt 40, Izrael 30, pismo 30. Każda runda: 7 ABCD i 3 otwarte, maksymalnie 13 punktów. Podpowiedzi są lokalne, bez kary punktowej jak w biologii. CSS i ilustracja są zachowane bez zmian.
