@@ -4,6 +4,8 @@ Data: 11 października 2026.
 
 Aktualizacja audio: dostarczony plik lekcji (ok. 12 MB) jest dostępny w odtwarzaczu „Powtórka przed testem” bezpośrednio nad przyciskiem rozpoczęcia quizu. Odtwarzacz używa lokalnego pliku MP3 i nie wymaga zewnętrznych usług.
 
+Wdrożenie z nagraniem: [GitHub Actions run 38170847632](https://github.com/sochagrzegorz/historia-quiz/actions/runs/38170847632) zakończył build, testy i deploy sukcesem. Potwierdzono publiczną odpowiedź 200 pliku MP3; przeglądarka załadowała go i wykryła długość 13:50. Element audio jest widoczny nad przyciskiem „Zaczynamy”.
+
 - Aplikacja: https://sochagrzegorz.github.io/historia-quiz/
 - Repozytorium: https://github.com/sochagrzegorz/historia-quiz
 - Backend: https://historia-quiz-ai.sochagrzegorz.workers.dev
